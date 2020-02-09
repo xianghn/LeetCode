@@ -14,3 +14,8 @@ struct ListNode {
     ListNode *next;
     ListNode(int x) : val(x), next(NULL) {}
 };
+
+int main()
+{
+    return 0;
+}
